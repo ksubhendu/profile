@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.top-container{
+    background-color: #BEF6D3;
+}
+.top-cloud{
+    margin-top: 20px;
+    margin-left: 700px;
+}
+.bottom-cloud{
+    margin-right: 700px;
+    margin-top: 50px;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: rgb(108, 34, 168);
+    margin: 50px auto 20px auto;
+}
+h2{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    color: rgb(21, 87, 54);
+    margin-left: 25px;
+}
+
+.mountain{
+    text-align: center;
+    margin-left: 200px;
+
+}
+.profile-img{
+    height: 80px;
+    width: 60px;
+    margin-top: 30px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 30px;
+    margin: 30px auto;
+    border-color: #CFF7DE;
+}
+.skill-1{
+    border-radius: 10%;
+    height: 180px;
+    width: 180px;
+}
+.skill-2{
+    border-radius: 10%;
+    height: 180px;
+    width: 180px;
+}
+.skill-3{
+    border-radius: 10%;
+    height: 180px;
+    width: 180px;
+}
+.middle-container{
+    margin: 100px 50px;
+}
+p{
+    font-size: 20px;
+    line-height: 2;
+}
+h4{
+    font-family: 'Gluten', cursive;
+    color: #BF7DF2;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Pacifico', cursive;
+    color: #ffa011;
+    margin: 10px 15px;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.myButton {
+	box-shadow: -1px 11px 21px -7px #446469;
+	background:linear-gradient(to bottom, #d1f3ff 5%, #5c959e 100%);
+	background-color:#d1f3ff;
+	border-radius:13px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	font-style:italic;
+	padding:12px 24px;
+	text-decoration:none;
+	text-shadow:0px 2px 0px #2b3e45;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #5c959e 5%, #d1f3ff 100%);
+	background-color:#5c959e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+    background-color: #53BCBD;
+    margin: 0;
+    padding: 50px 0 20px;
+}
+.copyrights{
+    padding-bottom: 15px;
+    font-size: 15px;
+    margin: 20px 0;
+}
